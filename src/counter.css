@@ -1,0 +1,25 @@
+.counter-box {
+    margin: 40px;
+    background-color: rgb(146, 35, 215);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(red, green, blue);
+}
+
+.counter-typograpy {
+    font-size: 100px;
+    font-weight: bold;
+    color: red;
+    margin: 20px;
+
+}
+
+.counter-button {
+  font-size: 36px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-transform: none; 
+  color: blueviolet;
+  background-color: red;
+}
+
